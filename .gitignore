@@ -1,0 +1,4 @@
+__pycache__/
+
+snomed_data/*
+!snomed_data/.gitkeep
